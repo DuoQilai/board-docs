@@ -1,13 +1,13 @@
-# Support Matrix Frontend
+# Board Docs Frontend
 
-RISC-V Board and OS Support Matrix Website
+RISC-V Board Documentation Website
 
 ## Develop
 
 ```bash
-git clone git@github.com:QA-Team-lo/support-matrix-frontend.git 
+git clone git@github.com:DuoQilai/board-docs-frontend.git
 
-cd ./support-matrix-frontend
+cd ./board-docs-frontend
 
 git submodule update --init
 
